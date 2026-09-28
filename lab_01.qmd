@@ -31,16 +31,16 @@ Sometimes there will be areas for you to edit. These will have _marked_ text tha
 :::
 
 - [x] Check items off as you complete them.
-- [ ] Create your personal student repository by following the instructions at the link above.
-- [ ] Clone the repository, containing this file, to your local machine.
-- [ ] Open these instructions in Visual Studio Code or RStudio.
-- [ ] Fill out your name in the box below.
+- [x] Create your personal student repository by following the instructions at the link above.
+- [x] Clone the repository, containing this file, to your local machine.
+- [x] Open these instructions in Visual Studio Code or RStudio.
+- [x] Fill out your name in the box below.
 
 ::: {.callout-note}
-Hi, my name is [_fill out your name here_]{.mark}.
+Hi, my name is [Rachel]{.mark}.
 :::
 
-- [ ] Knit the document to check that the output looks okay.
+- [x] Knit the document to check that the output looks okay.
 - [ ] Save, and push the output back up to GitHub. (Hint: see the instructions [here](https://soton-fds.github.io/github-tutorial.html))
 - [ ] Check that you can see the modified version in your personal GitHub repo.
 
